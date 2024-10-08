@@ -1,0 +1,7 @@
+REST service SOAP service
+Salesforce free user
+
+Tomorrow topics:
+Trigger and Invoke
+
+Hippa rules
